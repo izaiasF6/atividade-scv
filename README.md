@@ -2,10 +2,10 @@
 
 <table>
   <tr>
-    <th>Nome completo</th>
-    <th>Perfil</th>
-    <th>Intersse de aprendizado</th>
-    <th>Motivo</th>
+    <th>Izaias Ferraz da Silva</th>
+    <th>https://github.com/izaiasF6</th>
+    <th>SpringBoot</th>
+    <th>Já estudei um pouco de programação web, porém nunca tive a oportunidade de usar spring</th>
   </tr>
   <tr>
     <td>Thaís Alves Burity Rocha</td>
